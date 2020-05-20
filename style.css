@@ -99,7 +99,7 @@ form button:hover {
     width: 6rem;
     position: absolute;
     left: 50%;
-    top: 29rem;
+    top: 23rem;
     transform: translate(-50%);
     cursor: pointer;
 }
